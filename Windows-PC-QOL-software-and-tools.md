@@ -1,4 +1,4 @@
-# Windows-PC QOL and Management Software
+# Windows-PC QOL Software and Management Tools
 
 ## lists
 
