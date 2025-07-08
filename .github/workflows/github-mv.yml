@@ -1,7 +1,14 @@
 name: Github mv
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push]
-
+on:
+  workflow_call:
+    inputs:
+      username:
+        description: 'A username passed from the caller workflow'
+        default: 'john-doe'
+        required: false
+        type: string
+        
 jobs:
   say-hello:
     name: Tag repo
