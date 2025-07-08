@@ -23,6 +23,6 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git mv Windows-PC-QOL-software-and-tools.md windows-10/
+          git mv windows-10 windows
           git commit -m "Rename file"
           git push origin main
