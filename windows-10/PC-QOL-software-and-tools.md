@@ -1,4 +1,4 @@
-# Windows-PC QOL Software and Management Tools
+# Windows 10 PC QOL Software and Management Tools
 
 ## lists
 
