@@ -4,6 +4,8 @@
 
 rime
 
+### rime 仓库列表
+https://github.com/hantang/rime-list
 ## 词库
 
 - [haiyangma/dics](https://github.com/haiyangma/dics)
