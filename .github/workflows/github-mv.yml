@@ -1,7 +1,7 @@
 name: Github mv
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
-  workflow_call:
+  workflow_dispatch:
     inputs:
       username:
         description: 'A username passed from the caller workflow'
