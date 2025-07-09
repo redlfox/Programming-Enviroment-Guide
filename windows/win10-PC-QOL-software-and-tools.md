@@ -4,7 +4,8 @@
 
 https://github.com/fmhy/edit/blob/main/docs/system-tools.md
 
-https://github.com/Fleex255/PolicyPlus Local Group Policy Editor plus more, for all Windows editions
+* [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
+* https://github.com/Fleex255/PolicyPlus Local Group Policy Editor plus more, for all Windows editions
 
 [图吧工具箱](https://www.tbtool.cn/)
 
