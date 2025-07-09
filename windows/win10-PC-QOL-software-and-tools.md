@@ -16,3 +16,4 @@ https://github.com/016622/wiki/blob/main/guides/windows/ricing.md
 * autohotkey
 * fofolee/uTools-quickcommand
 * quicker
+* utools
