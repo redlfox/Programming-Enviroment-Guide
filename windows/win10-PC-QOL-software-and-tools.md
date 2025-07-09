@@ -12,3 +12,7 @@ https://github.com/fmhy/edit/blob/main/docs/system-tools.md
 [Windows Ricing, Privacy, Customization & Optimization. Windows privacy, security, performance, productivity and customization.](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization)
 
 https://github.com/016622/wiki/blob/main/guides/windows/ricing.md
+
+* autohotkey
+* fofolee/uTools-quickcommand
+* quicker
