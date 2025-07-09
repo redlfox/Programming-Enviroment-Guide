@@ -17,3 +17,5 @@ https://github.com/016622/wiki/blob/main/guides/windows/ricing.md
 * fofolee/uTools-quickcommand
 * quicker
 * utools
+
+* https://github.com/XuehaiPan/nvitop An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
