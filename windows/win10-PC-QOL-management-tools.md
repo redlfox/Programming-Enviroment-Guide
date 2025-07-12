@@ -21,3 +21,11 @@ https://github.com/016622/wiki/blob/main/guides/windows/ricing.md
 
 * https://github.com/XuehaiPan/nvitop An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 * https://github.com/PJDude/dude Duplicates Detector is a cross-platform GUI utility for finding duplicate files, allowing you to delete or link them to save space. Duplicate files are displayed and processed on two synchronized panels for efficient and convenient operation.
+
+
+- [t3l3machus/ACEshark: ACEshark is a utility designed for rapid extraction and analysis of Windows service configurations and Access Control Entries, eliminating the need for tools like accesschk.exe or other non-native binaries.](https://github.com/t3l3machus/ACEshark)
+- [SystemXFiles/process-governor: Process Governor is a utility that automates the management of Windows processes and services by adjusting their priorities, I/O priorities, and core affinity according to user-defined rules](https://github.com/SystemXFiles/process-governor)
+
+## Buried Area
+
+- [king-tri-ton/minibin: Minibin - это небольшая утилита для очистки корзины в операционной системе Windows 10. Программа предоставляет удобный способ освободить место на диске, избавившись от файлов в корзине.](https://github.com/king-tri-ton/minibin)
