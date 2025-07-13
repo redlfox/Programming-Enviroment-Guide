@@ -39,4 +39,5 @@ https://github.com/016622/wiki/blob/main/guides/windows/ricing.md
 
 ## Buried Area
 
+- https://github.com/rbreaves/kinto Mac-style shortcut keys for Linux & Windows.
 - https://github.com/swengkr/EasyRenamer file renaming software for Windows.
