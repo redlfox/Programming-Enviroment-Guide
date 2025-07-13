@@ -11,3 +11,5 @@
 [NeshHari/XMonad: XMonad Starter Kit](https://github.com/NeshHari/XMonad)
 
 ## Setups
+
+- [Firstp1ck/Hyprland-Simple-Setup: Setup Hyprland the simple way.](https://github.com/Firstp1ck/Hyprland-Simple-Setup?tab=readme-ov-file#introduction)
