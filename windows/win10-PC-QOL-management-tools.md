@@ -36,6 +36,12 @@ https://github.com/016622/wiki/blob/main/guides/windows/ricing.md
 - https://github.com/3XAY/PC-Utilities A portable app that allows you to perform maintenance and benchmark Windows 10/11 machines!
 - https://github.com/ramensoftware/windhawk The customization marketplace for Windows programs: https://windhawk.net/
 - StartAllBack
+- https://github.com/NullArray/WinBins-Plus Repo to store Windows PE's and Utilities for easy access.
+- https://github.com/Stamir36/ModernNotify A modern control panel for Microsoft Windows that allows you to connect to an Android device, view its status, share buffer, control volume, music and much more.
+- https://github.com/Dulappy/aero-window-manager A configuration utility for modifying Windows 10's DWM metrics
+- https://github.com/medialab/minet A webmining CLI tool & library for python.
+- https://github.com/H1DDENADM1N/CapsWriter-Offline 离线语音输入简/繁体、中译英、字幕转录；在线多译多、云剪贴板等等 （选用SenseVoice模型 支持中粤英日韩多语种）
+- https://github.com/HaujetZhao/CapsWriter-Offline CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
 
 ## Buried Area
 
