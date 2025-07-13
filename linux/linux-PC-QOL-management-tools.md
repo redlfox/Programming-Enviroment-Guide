@@ -15,3 +15,12 @@
 - [bulletmark/libinput-gestures: Actions gestures on your touchpad using libinput](https://github.com/bulletmark/libinput-gestures)
 - [Schneegans/Fly-Pie: :pie: Fly-Pie is an innovative marking menu written as a GNOME Shell extension.](https://github.com/Schneegans/Fly-Pie)
 - [kando-menu/kando: 🌸 Do things with utmost efficiency.](https://github.com/kando-menu/kando)
+
+### Text Editors/IDEs
+
+- [Home | Geany](https://www.geany.org/)
+- [Kate - Get an Edge in Editing](https://kate-editor.org/)
+- [dail8859/NotepadNext: A cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
+- [CudaText - Home](https://cudatext.github.io/)
+- [Notepadqq | A simple text editor for developers](https://notepadqq.com/wp/)
+- [tsujan/FeatherPad: Lightweight Qt Plain-Text Editor for Linux](https://github.com/tsujan/FeatherPad)
