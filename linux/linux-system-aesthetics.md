@@ -14,3 +14,7 @@
 
 - [Firstp1ck/Hyprland-Simple-Setup: Setup Hyprland the simple way.](https://github.com/Firstp1ck/Hyprland-Simple-Setup?tab=readme-ov-file#introduction)
 - https://github.com/gibranlp/QARSlp Qtile Auto Ricing Theme
+
+## Packages
+
+- [Schneegans/Burn-My-Windows: 🔥 Disintegrate your windows with style.](https://github.com/Schneegans/Burn-My-Windows)
